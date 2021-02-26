@@ -6,7 +6,9 @@ This EFI was made for Dell Vostro 3578 using OpenCore.
 System Specs
 
 Cpu : Intel core i5 8250u (Kaby Lake)
+
 Memory : 8 GB
+
 Graphics : Intel UHD 620
 
 
